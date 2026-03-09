@@ -6,14 +6,12 @@ Este projeto foi desenvolvido como parte de um trabalho integrador da disciplina
 
 ## 📁 Estrutura do Repositório
 ├── data/
-│
 
-└── Superstore.csv # Base de dados original
+│└── Superstore.csv # Base de dados original
 
 ├── relatorio/
-│ 
 
-└── Projeto_integrador.pdf # Relatório completo com análises e conclusões
+│ └── Projeto_integrador.pdf # Relatório completo com análises e conclusões
 
 └── notebook/
 
