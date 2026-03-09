@@ -7,9 +7,12 @@ Este projeto foi desenvolvido como parte de um trabalho integrador da disciplina
 ## 📁 Estrutura do Repositório
 ├── data/
 │ └── Superstore.csv # Base de dados original
+
 ├── relatorio/
 │ └── Projeto_integrador.pdf # Relatório completo com análises e conclusões
+
 └── notebook/
+
 └── Projeto_integrador.ipynb # Código em Python com todas as análises realizadas
 
 ## 🎯 Perguntas de Negócio
